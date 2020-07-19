@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586167336 source:c:\users\moaaz\documents\c++\taskonegrahpices\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+
+1586167336 source:d:\decomentscopy\c++\taskonegrahpices\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+
